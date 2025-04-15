@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mahran</h1>
+<h3 align="center">🚀 Frontend Developer in Progress | Passionate about Clean UI & Interactive Web</h3>
 
-<!--
-**mahrandev/mahrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **JavaScript**
+- 💻 I build with: **HTML, CSS, SASS, Bootstrap**
+- 🎯 I'm focused on crafting responsive & modern UIs
+- 📚 Always learning, always building
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/amr-mahran-21a34b298/)
+
+---
+
+### 🛠️ My Toolbox:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahrandev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrandev&layout=compact&theme=radical" />
+</p>
+
+---
+
+### ⚡ Fun Fact:
+> I write code like poetry and style it with rhythm ✨🖋️🎨
+
+---
+
+### 🔗 Let’s Connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/amr-mahran-21a34b298/)
