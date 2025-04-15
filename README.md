@@ -31,9 +31,10 @@
 ---
 
 ### ⚡ Fun Fact:
-> I write code like poetry and style it with rhythm ✨🖋️🎨
+> I love turning complex ideas into simple, elegant code — and I enjoy the process as much as the result 😄💻
 
 ---
 
 ### 🔗 Let’s Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/amr-mahran-21a34b298/)
+- 🌍 [Facebook](https://www.facebook.com/)
